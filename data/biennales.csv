@@ -1,0 +1,201 @@
+City,Country,city_match,city_geocode,country_geocode,latitude,longitude,Specialization,Curator_lastname_firstname,Curator_nationality_or_residence,Regularity,Local_or_international,First_edition_year,Last_Edition_year,City,Country,Region
+Venice,Italy,TRUE,Venice,Italy,45.4408474,12.3155151,Contemporary art,Macel Christine,France,Biennial,International,1895,2017,Venice,Italy,Western Europe
+Pittsburgh,USA,TRUE,Pittsburgh,USA,40.4406248,-79.9958864,Contemporary art,Schaffner Ingrid,USA,Five years,International,1896,2018,Pittsburgh,USA,North America
+Tucson,USA,TRUE,Tucson,USA,32.2226066,-110.9747108,Contemporary art,Hart Rebecca R.,USA,Biennial,Local,1948,2018,Tucson,USA,North America
+Arnhem,Netherlands,TRUE,Arnhem,Netherlands,51.9851034,5.8987296,Sculpture,Ruangrupa,Indonesia,Quadriennial,International,1949,2016,Arnhem,Netherlands,Western Europe
+São Paulo,Brazil,TRUE,São Paulo,Brazil,-23.5557714,-46.6395571,Contemporary art,Pérez-Barreiro Gabriel,Spain,Biennial,International,1951,2018,São Paulo,Brazil,Latin America
+Ljubljana,Slovenia,TRUE,Ljubljana,Slovenia,46.0569465,14.5057515,Graphic art,n/a,n/a,Biennial,International,1955,2017,Ljubljana,Slovenia,Eastern Europe
+Kassel,Germany,TRUE,Kassel,Germany,51.3127114,9.4797461,Contemporary art,Szymczyk Adam,Poland,Five years,International,1955,2017,Kassel,Germany,Western Europe
+Belgrade,Serbia,TRUE,Belgrade,Serbia,44.8125449,20.4612299,Contemporary art,"Kvaran Gunnar B., Kvaran Danielle","Iceland, France",Biennial,International,1960,2018,Belgrade,Serbia,Eastern Europe
+Helsinki,Finland,TRUE,Helsinki,Finland,60.1698557,24.9383791,Contemporary art,"Haapala Leevi, Sakari Marja, Kivinen Kati, Nyberg Patrik, Vanhala Jari-Pekka, Miller Arja, Aarnio Eija, Liimatainen Milja",Finland,Irregular,International,1961,2017,Helsinki,Finland,Western Europe
+Brno,Czech Republic,TRUE,Brno,Czech Republic,49.1950602,16.6068371,Graphic design,OKOLO creative group,Czech Republic,Biennial,International,1963,2018,Brno,Czech Republic,Eastern Europe
+Krakow,Poland,TRUE,Krakow,Poland,50.0646501,19.9449799,Graphic art,Škrjanec Breda,Slovenia,Triennial,International,1966,2018,Krakow,Poland,Eastern Europe
+Tallinn,Estonia,TRUE,Tallinn,Estonia,59.4369608,24.7535747,Graphic art,Säde Margit,Estonia,Triennial,International,1968,2018,Tallinn,Estonia,Eastern Europe
+Riga,Latvia,TRUE,Riga,Latvia,56.9496487,24.1051865,Sculpture,"Bikše Aigars, Lubytė Elona, Kangro Kirke","Latvia, Lithuania, Estonia",Quadriennial,International,1972,2016,Riga,Latvia,Eastern Europe
+New York,USA,TRUE,New York,USA,40.7127753,-74.0059728,Contemporary art,"Lew Christopher, Locks Mia","USA, USA",Biennial,Local,1973,2017,New York,USA,North America
+Sydney,Australia,TRUE,Sydney,Australia,-33.8688197,151.2092955,Contemporary art,Kataoka Mami,Japan,Biennial,International,1973,2018,Sydney,Australia,Oceania
+Jakarta,Indonesia,TRUE,Jakarta,Indonesia,-6.2087634,106.845599,Contemporary art,"Suryodarmo Melati, Gultom Annissa, Wiyanto Hendro, Pirotte Philippe, Havránek Vít","Indonesia, Indonesia, Indonesia, Belgium, Czech Republic",Biennial,International,1974,2017,Jakarta,Indonesia,Asia
+Kingston,Jamaica,TRUE,Kingston,Jamaica,41.9270367,-73.9973608,Contemporary art,n/a,n/a,Biennial,Local,1977,2017,Kingston,Jamaica,Caribbean
+Münster,Germany,TRUE,Münster,Germany,51.9606649,7.6261347,"Sculpture, Public art","König Kasper, Peters Britta, Wagner Marianne",Germany,Ten years,International,1977,2017,Münster,Germany,Western Europe
+Limerick,Ireland,TRUE,Limerick,Ireland,52.6638367,-8.6267343,Contemporary art,Guerrero Inti,Colombia,Biennial,International,1977,2018,Limerick,Ireland,Western Europe
+Guatemala City,Guatemala,TRUE,Guatemala City,Guatemala,14.6349149,-90.5068824,Contemporary art,"Mosquera Gerardo, Juracán Maya, Wellen Laura, De León Esperanza",n/a,Biennial,International,1978,2018,Guatemala City,Guatemala,Latin America
+Vila Nova de Cerveira,Portugal,TRUE,Vila Nova de Cerveira,Portugal,41.9428454,-8.7408025,Contemporary art,Pinto Cabral,Portugal,Biennial,International,1978,2018,Vila Nova de Cerveira,Portugal,Western Europe
+"Vilnius, Tallinn, Riga","Lithuania, Estonia, Latvia",TRUE,"Vilnius, Tallinn, Riga","Lithuania, Estonia, Latvia",54.6850225,25.289467,Contemporary art,"Honoré Vincent, Akhmadeeva Dina, Batur Canan, Bumblienė Neringa, Fauq Cédric, Harrison Anya","France, n/a, n/a, n/a, n/a, n/a",Triennial,International,1979,2018,"Vilnius, Tallinn, Riga","Lithuania, Estonia, Latvia",Eastern Europe
+São Paulo,Brazil,TRUE,São Paulo,Brazil,-23.5557714,-46.6395571,"Contemporary art, New media art",Farkas Solange,Brazil,Biennial,International,1983,2018,São Paulo,Brazil,Latin America
+Houston,USA,TRUE,Houston,USA,29.7604267,-95.3698028,"Photography, New media art","Gupta Sunil, Evans Steven","India, USA",Biennial,International,1983,2018,Houston,USA,North America
+Tirana,Albania,TRUE,Tirana,Albania,41.3275459,19.8186982,Contemporary art,Zeneli Driant,Albania,Biennial,International,1984,2018,Tirana,Albania,Europe
+Bonn,Germany,TRUE,Bonn,Germany,50.73743,7.0982068,"Video art, Time-based media",Langenbach Tasja,Germany,Biennial,International,1984,2017,Bonn,Germany,Western Europe
+Rauma,Finland,TRUE,Rauma,Finland,61.1308854,21.5059263,Contemporary art,n/a,n/a,Biennial,International,1985,2016,Rauma,Finland,Western Europe
+Geneva,Switzerland,TRUE,Geneva,Switzerland,46.2043907,6.1431577,Moving image,"Lissoni Andrea, Bellini Andrea","Italy, Italy",Biennial,International,1985,2018,Geneva,Switzerland,Western Europe
+Varna,Bulgaria,TRUE,Varna,Bulgaria,43.2140504,27.9147333,Graphic art,n/a,n/a,Triennial,International,1987,2017,Varna,Bulgaria,Eastern Europe
+Skopje,Macedonia,TRUE,Skopje,Macedonia,41.9981294,21.4254355,Contemporary art,"Vaseva Ivana, Janeva-Semova Bojana, Janchevski Vladimir",Republic of Macedonia,Biennial,Local,1987,2018,Skopje,Macedonia,Eastern Europe
+Istanbul,Turkey,TRUE,Istanbul,Turkey,41.0082376,28.9783589,Contemporary art,"Elmgreen Michael, Dragset Ingar","Denmark, Norway",Biennial,International,1987,2017,Istanbul,Turkey,Middle East
+Yogyakarta,Indonesia,TRUE,Yogyakarta,Indonesia,-7.7955798,110.3694896,Contemporary art,n/a,n/a,Biennial,International,1988,2017,Yogyakarta,Indonesia,Asia
+Resistencia,Argentina,TRUE,Resistencia,Argentina,-27.4518622,-58.9855547,Sculpture,n/a,n/a,Biennial,International,1988,2018,Resistencia,Argentina,Latin America
+Cuenca,Ecuador,TRUE,Cuenca,Ecuador,-2.9001285,-79.0058965,Contemporary art,Fuenmayor Jesús,USA,Biennial,International,1988,2018,Cuenca,Ecuador,Latin America
+Thessaloniki,Greece,TRUE,Thessaloniki,Greece,40.6400629,22.9444191,Photography,Petsini Penelope,Greece,Biennial,International,1989,2018,Thessaloniki,Greece,Asia
+Wrocław,Poland,TRUE,Wrocław,Poland,51.1078852,17.0385376,New media art,Krajewski Piotr,Poland,Biennial,International,1989,2017,Wrocław,Poland,Eastern Europe
+Adelaide,Australia,TRUE,Adelaide,Australia,-34.9284989,138.6007456,Contemporary art,Green Erica,Australia,Biennial,Local,1990,2018,Adelaide,Australia,Oceania
+Lyon,France,TRUE,Lyon,France,45.764043,4.835659,Contemporary art,Lavigne Emma,France,Biennial,International,1991,2017,Lyon,France,Western Europe
+Dakar,Senegal,TRUE,Dakar,Senegal,14.716677,-17.4676861,Contemporary art,"Sebti Alya, Rodriguez Marisol, Hultman Marianne, Ndikung Bonaventure Soh Bejeng, Costinas Cosmin","Morocco, Mexico, Sweden, Cameroon, Hong Kong",Biennial,International,1992,2018,Dakar,Senegal,Africa
+Taipei,Taiwan,TRUE,Taipei,Taiwan,25.0329636,121.5654268,Contemporary art,"Wu Mali, Manacorda Francesco","Taiwan, Italy",Biennial,International,1992,2018,Taipei,Taiwan,Asia
+Monterrey,Monterrey,TRUE,Monterrey,Monterrey,25.6866142,-100.3161126,Contemporary art,Kautz Willy,Brazil,Biennial,International,1992,2017,Monterrey,Monterrey,Mexico
+Santiago,Chile,TRUE,Santiago,Chile,-33.4488897,-70.6692655,Media arts,n/a,n/a,Biennial,International,1993,2017,Santiago,Chile,Latin America
+Sharjah,United Arab Emirates,TRUE,Sharjah,United Arab Emirates,25.3461806,55.4210708,Contemporary art,Tohmé Christine,Lebanon,Biennial,International,1993,2017,Sharjah,United Arab Emirates,Middle East
+Brisbane,Australia,TRUE,Brisbane,Australia,-27.4704528,153.0260341,Contemporary art,n/a,n/a,Triennial,International,1993,2018,Brisbane,Australia,Oceania
+Curitiba,Brazil,TRUE,Curitiba,Brazil,-25.4372382,-49.2699727,Contemporary art,Scaringella Massimo,Italy,Biennial,International,1993,2018,Curitiba,Brazil,Western Europe
+Bamako,Mali,TRUE,Bamako,Mali,12.6392316,-8.0028892,Photography,Yemsi Marie-Ann,German,Biennial,International,1994,2017,Bamako,Mali,Africa
+Hamilton,Bermuda,TRUE,Hamilton,Bermuda,37.1929578,-95.7175467,Contemporary art,"Breilmaier Isolde, Messina Melissa","USA, USA",Biennial,International,1994,2018,Hamilton,Bermuda,Caribbean
+Moscow,Russia,TRUE,Moscow,Russia,55.755826,37.6172999,Photography,n/a,n/a,Biennial,International,1994,2018,Moscow,Russia,Eastern Europe
+Bitola,Macedonia,TRUE,Bitola,Macedonia,41.0296773,21.3292164,Graphic art,n/a,n/a,Biennial,International,1994,2018,Bitola,Macedonia,Macedonia
+Gwangju,South Korea,TRUE,Gwangju,South Korea,35.1595454,126.8526012,Contemporary art,"Kim Clara, Kim Christine Y., Gonzalez Rita, Gaweewong Gridthiya, Yeon Shim Chung, Koon Yeewan, Teh David, Kim Man Seok, Kim Sung Woo, Paek Chong-Ok, Muhn B.G.","USA, USA, USA, Thailand, South Korea,UK, Australia, South Korea, South Korea, South Korea, USA",Biennial,International,1995,2018,Gwangju,South Korea,Asia
+Krasnoyarsk,Russia,TRUE,Krasnoyarsk,Russia,56.0152834,92.8932476,Contemporary art,"Bukova Maria, Hübner Ursula, Jelinek Sabine, Kovalevsky Sergey, Mraz Simon, Tarnopolski Vladimir, Taylor Svetlana, Urban Tobias, Wege Astrid, Zimmer Karin","Russia, Austria, Austria, Russia, Austria, Russia, Russia, Germany, Germany, Austria",Biennial,International,1995,2017,Krasnoyarsk,Russia,Eastern Europe
+Santa Fe,USA,TRUE,Santa Fe,USA,35.6869752,-105.937799,Contemporary art,"Blondet José Louis, Hopkins Candice, Katrib Ruba",USA,Biennial,International,1995,2018,Santa Fe,USA,North America
+Palermo,Italy,TRUE,Palermo,Italy,38.11569,13.3614868,Contemporary art,"Pestellini Laparelli Ippolito, van der Haak Bregtje, Jaque Andrés, Varadinis Mirjam","Italy, Netherlands, Spain, Switzerland",Biennial,International,1995,2018,Palermo,Italy,Western Europe
+Shanghai,China,TRUE,Shanghai,China,31.230416,121.473701,Contemporary art,Medina Cuauhtémoc,Mexico,Biennial,International,1996,2018,Shanghai,China,Asia
+Alberta,Canada,TRUE,Alberta,Canada,53.9332706,-116.5765035,Contemporary art,"Trinier Kristy, Rake Peta",Canada,Biennial,International,1996,2017,Alberta,Canada,North America
+Kaunas,Lithuania,TRUE,Kaunas,Lithuania,54.8985207,23.9035965,Contemporary art,"Pukytė Paulina, Kreivytė Laima, Edelman Udi","Lithuania, Lithuania, Israel",Biennial,International,1997,2017,Kaunas,Lithuania,Eastern Europe
+Porto Alegre,Brazil,TRUE,Porto Alegre,Brazil,-30.0368176,-51.2089887,Contemporary art,Hug Alfons,Germany,Biennial,International,1997,2018,Porto Alegre,Brazil,Latin America
+Liège,Belgium,TRUE,Liège,Belgium,50.6329586,5.5697498,"Contemporary art, Photography",Lesuisse Anne-Françoise,Belgium,Biennial,International,1997,2018,Liège,Belgium,Western Europe
+Cologne,Germany,TRUE,Cologne,Germany,50.937531,6.9602786,Sculpture,Martínez Chus,Spain,Biennial,International,1997,2017,Cologne,Germany,Western Europe
+Hessen,Germany,TRUE,Hessen,Germany,50.6520515,9.1624376,Sculpture,"Scheffel Christian, Schneider Maria","Germany, Germany",Biennial,International,1997,2017,Hessen,Germany,Western Europe
+Florence,Italy,TRUE,Florence,Italy,43.7695604,11.2558136,Contemporary art,Zefferino Melanie,Italy,Biennial,International,1997,2017,Florence,Italy,Western Europe
+Vladivostok,Russia,TRUE,Vladivostok,Russia,43.1332484,131.9112975,Contemporary art,Liping Xiang,China,Biennial,International,1998,2017,Vladivostok,Russia,Asia
+Busan,South Korea,TRUE,Busan,South Korea,35.1795543,129.0756416,Contemporary art,"Ricupero Cristina, Heiser Jörg, Park Gahee","France, Germany, South Korea",Biennial,International,1998,2018,Busan,South Korea,Asia
+San José,Costa Rica,TRUE,San José,Costa Rica,37.3382082,-121.8863286,Contemporary art,Díaz Bringas Tamara,Cuba,Biennial,International,1998,2016,San José,Costa Rica,Latin America
+Berlin,Germany,TRUE,Berlin,Germany,52.5200066,13.404954,Contemporary art,Ngcobo Gabi,South Africa,Biennial,International,1998,2018,Berlin,Germany,Western Europe
+La Paz,Bolivia,TRUE,La Paz,Bolivia,-16.489689,-68.1192936,Contemporary art,Sánchez Joaquín,Bolivia,Biennial,International,1999,2018,La Paz,Bolivia,Latin America
+Quebec,Canada,TRUE,Quebec,Canada,46.8138783,-71.2079809,Graphic art,n/a,n/a,Biennial,International,1999,2017,Quebec,Canada,North America
+Louisville,USA,TRUE,Louisville,USA,38.2526647,-85.7584557,Photography,n/a,n/a,Biennial,Local,1999,2017,Louisville,USA,North America
+Dhaka,Bangladesh,TRUE,Dhaka,Bangladesh,23.810332,90.4125181,Photography,n/a,n/a,Biennial,International,2000,2017,Dhaka,Bangladesh,Asia
+Echigo-Tsumari,Japan,FALSE,Niigata,Japan,37.9161244,139.0363708,Contemporary art,Kitagawa Fram,Japan,Triennial,International,2000,2018,Echigo-Tsumari,Japan,Asia
+Seoul,South Korea,TRUE,Seoul,South Korea,37.566535,126.9779692,New media art,"Jeon Solok, Kwon Jin, Yun Minhwa","South Korea, South Korea, South Korea",Biennial,International,2000,2018,Seoul,South Korea,Asia
+Quebec,Canada,TRUE,Quebec,Canada,46.8138783,-71.2079809,Contemporary art,Fabre Alexia,France,Biennial,International,2000,2017,Quebec,Canada,North America
+Christchurch,New Zealand,TRUE,Christchurch,New Zealand,-43.5320214,172.6305589,Public art,Galbraith Heather,New Zealand,Biennial,International,2000,2018,Christchurch,New Zealand,Oceania
+Yokohama,Japan,TRUE,Yokohama,Japan,41.0831433,141.2477228,Contemporary art,"Osaka Eriko, Miki Akiko, Kashiwagi Tomoh","Japan, Japan, Japan",Triennial,International,2001,2017,Yokohama,Japan,Asia
+Göteborg,Sweden,TRUE,Göteborg,Sweden,57.70887,11.97456,Contemporary art,Haq Nav,UK,Biennial,International,2001,2017,Göteborg,Sweden,Western Europe
+Guangzhou,China,TRUE,Guangzhou,China,23.1290799,113.26436,Contemporary art,"Wang Shaoqiang, Castellote Alejandro, Bao Dong, Zeng Han","China, Spain, China, China",Triennial,International,2002,2017,Guangzhou,China,Asia
+Herning,Denmark,TRUE,Herning,Denmark,56.138557,8.967322,Contemporary art,"Visser Mattijs, Varenne Olivier, Martin Jean-Hubert, Birnbaum Daniel, Finders Maria","Netherlands, France, France, Sweden, n/a",Biennial,International,2002,2017,Herning,Denmark,Western Europe
+Wrocław,Poland,TRUE,Wrocław,Poland,51.1078852,17.0385376,Public art,"Bieniek Michał, Kołodziejczyk Anna, Stec Anna",Poland,Annual,International,2003,2018,Wrocław,Poland,Eastern Europe
+Moscow,Russia,TRUE,Moscow,Russia,55.755826,37.6172999,Contemporary art,Hasegawa Yuko,Japan,Biennial,International,2003,2017,Moscow,Russia,Eastern Europe
+Melbourne,Australia,TRUE,Melbourne,Australia,-37.8136276,144.9630576,New media art,n/a,n/a,Triennial,International,2003,2018,Melbourne,Australia,Oceania
+Belgian coast,Belgium,TRUE,Belgian coast,Belgium,50.8730755,3.3194148,"Sculpture, Public art",Ballet Heidi,Belgium,Triennial,International,2003,2018,Belgian coast,Belgium,Western Europe
+Mechelen,Belgium,TRUE,Mechelen,Belgium,51.0259143,4.4775553,Moving image,Ginwala Natasha,India,Biennial,International,2003,2017,Mechelen,Belgium,Western Europe
+Turku,Finland,TRUE,Turku,Finland,60.4518126,22.2666302,Contemporary art,n/a,n/a,Biennial,Local,2003,2017,Turku,Finland,Western Europe
+Brighton,UK,TRUE,Brighton,United Kingdom,51.5072178,-0.1275862,Photography,Mavlian Shoair,UK,Biennial,International,2003,2018,Brighton,UK,Western Europe
+Bucharest,Romania,TRUE,Bucharest,Romania,44.4267674,26.1025384,Contemporary art,n/a,n/a,Biennial,Local,2004,2018,Bucharest,Romania,Eastern Europe
+Liverpool,UK,TRUE,Liverpool,United Kingdom,45.7770651,-74.0022198,Contemporary art,"Scott Kitty, Tallant Sally","Canada, UK",Biennial,International,2004,2018,Liverpool,UK,Western Europe
+Beijing,China,TRUE,Beijing,China,39.904211,116.407395,Photography,Yue Hong,China,Biennial,International,2005,2017,Beijing,China,Asia
+Shenzhen,China,TRUE,Shenzhen,China,22.5428599,114.05956,"Contemporary art, Design, Urbanism",Kiu Chan Lai,Hong Kong,Biennial,International,2005,2017,Shenzhen,China,Asia
+Bucharest,Romania,TRUE,Bucharest,Romania,44.4267674,26.1025384,Contemporary art,"Madra Beral, Ion Răzvan","Turkey, Romania",Biennial,International,2005,2018,Bucharest,Romania,Eastern Europe
+Vancouver,Canada,TRUE,Vancouver,Canada,49.2827291,-123.1207375,Contemporary art,"Mowatt Barrie, Dantas Marcello, Uslip Jeffrey","Canada, Brazil, USA",Biennial,International,2005,2018,Vancouver,Canada,North America
+New York,USA,TRUE,New York,USA,40.7127753,-74.0059728,Performance,Goldberg RoseLee,USA,Biennial,International,2005,2017,New York,USA,North America
+Ballarat,Australia,TRUE,Ballarat,Australia,-37.5621587,143.8502556,Photography,n/a,n/a,Biennial,International,2005,2017,Ballarat,Australia,Oceania
+Mannheim,Germany,TRUE,Mannheim,Germany,49.4874592,8.4660395,Photography,"Ebner Florian, Müller Christin, Levin Boaz, Knierim Fabian, Meincke Kerstin, Schönegg Kathrin","Germany, Germany, Israel, Germany, Germany, Germany",Biennial,International,2005,2017,Mannheim,Germany,Western Europe
+Athens,Greece,TRUE,Athens,Greece,37.9838096,23.7275388,Digital art,n/a,n/a,Annual,International,2005,2018,Athens,Greece,Western Europe
+Glasgow,UK,TRUE,Glasgow,UK,55.864237,-4.251806,Contemporary art,Parry Richard,UK,Biennial,International,2005,2018,Glasgow,UK,Western Europe
+Ulaanbaatar,Mongolia,TRUE,Ulaanbaatar,Mongolia,47.8863988,106.9057439,Land art,Biggs Lewis,UK,Biennial,International,2006,2018,Ulaanbaatar,Mongolia,Asia
+Singapore,Singapore,TRUE,Singapore,Singapore,1.352083,103.819836,Contemporary art,Lingham Susie,n/a,Biennial,International,2006,2016,Singapore,Singapore,Asia
+Daegu,South Korea,TRUE,Daegu,South Korea,35.8714354,128.601445,Photography,"Barak Ami, Draz Bernhard, Jung Hoon, Gang Wee Won, Docquiert Francoise, Kang Hyoyeon, Kim So-hee, Zo Sun Hi, Sue Jin Eun","France, Germany, South Korea, South Korea, France, South Korea, South Korea, South Korea, South Korea",Biennial,International,2006,2018,Daegu,South Korea,Asia
+Sinop,Turkey,TRUE,Sinop,Turkey,42.027974,35.151725,Contemporary art,"Görgün T. Melih, Bätzner Nike, Engqvist Jonatan Habib","Turkey, Germany, Sweden",Biennial,International,2006,2017,Sinop,Turkey,Middle East
+TarraWarra,Australia,TRUE,TarraWarra,Australia,-37.6469756,145.4363814,Contemporary art,Cormack Emily,Australia,Biennial,Local,2006,2018,TarraWarra,Australia,Oceania
+Reykjavik,Iceland,TRUE,Reykjavik,Iceland,64.146582,-21.9426354,Contemporary art,Norton Margot,USA,Biennial,International,2006,2017,Reykjavik,Iceland,Western Europe
+Whitstable,UK,TRUE,Whitstable,UK,51.361047,1.024256,"Film, Sound, Performance",Jones Sue,UK,Biennial,International,2006,2018,Whitstable,UK,Western Europe
+Douala,Cameroon,TRUE,Douala,Cameroon,4.0510564,9.7678687,Public art,Bourne-Farrell Cécile,France,Triennial,International,2007,2017,Douala,Cameroon,Africa
+Taipei,Taiwan,TRUE,Taipei,Taiwan,25.0329636,121.5654268,Contemporary art,"Al-Khudhairi Wassan, Darmawan Ade, Kubota Kenji, Lin Hsiao-Yu","Iraq, Indonesia, Japan, Taiwan",Biennial,International,2007,2017,Taipei,Taiwan,Asia
+Athens,Greece,TRUE,Athens,Greece,37.9838096,23.7275388,Contemporary art,"Hessler Stefanie, Poka-Yio, Stafylakis Kostis","Germany, Greece, Greece",Biennial,International,2007,2018,Athens,Greece,Western Europe
+Thessaloniki,Greece,TRUE,Thessaloniki,Greece,40.6400629,22.9444191,Contemporary art,Tsiara Syrago,Greece,Biennial,International,2007,2017,Thessaloniki,Greece,Western Europe
+Lubumbashi,Congo,TRUE,Lubumbashi,Congo,-11.6876026,27.5026174,Contemporary art,Luntumbue Toma Muteba,Congo,Biennial,International,2008,2017,Lubumbashi,Congo,Africa
+Taipei,Taiwan,TRUE,Taipei,Taiwan,25.0329636,121.5654268,Contemporary art,"Gong Jow-Jiun, Chou Yu-Ling","Taiwan, Taiwan",Biennial,Local,2008,2018,Taipei,Taiwan,Asia
+Taipei,Taiwan,TRUE,Taipei,Taiwan,25.0329636,121.5654268,Contemporary art,"Akay Ali, Starr Bala, Slager Henk, Yang Kai-Lin, Pan Lu, Lo Sandy Hsiu-Chih, Bauer Ute Meta","Turkey, Australia, n/a, Taiwan, n/a, Taiwan, Germany",Biennial,International,2008,2018,Taipei,Taiwan,Asia
+Poznan,Poland,TRUE,Poznan,Poland,52.406374,16.9251681,Contemporary art,Wendland Tomasz,Poland,Biennial,International,2008,2018,Poznan,Poland,Eastern Europe
+Moscow,Russia,TRUE,Moscow,Russia,55.755826,37.6172999,Contemporary art,Visconti Lucrezia Calabrò,Italy,Biennial,International,2008,2018,Moscow,Russia,Eastern Europe
+El Paso,Mexico,TRUE,El Paso,Mexico,31.7618778,-106.4850217,Contemporary art,n/a,n/a,Biennial,International,2008,2018,El Paso,Mexico,Latin America
+Çanakkale,Turkey,TRUE,Çanakkale,Turkey,40.14672,26.408587,Contemporary art,Erbaş Deniz,Turkey,Biennial,International,2008,2018,Çanakkale,Turkey,Middle East
+New Orleans,USA,TRUE,New Orleans,USA,29.9510658,-90.0715323,Contemporary art,Schoonmaker Trevor,USA,Triennial,International,2008,2018,New Orleans,USA,North America
+Onkaparinga City,Australia,TRUE,Onkaparinga City,Australia,-35.2128245,138.5187229,Photography,n/a,n/a,Biennial,Local,2008,2018,Onkaparinga City,Australia,Oceania
+Ii,Finland,FALSE,Oulu,Finland,65.0239,25.53508,Contemporary art,"Patsey Anastasia, Tenetz Antti, Briñón Merja","Russia, Finland, Finland",Biennial,International,2008,2018,Ii,Finland,Western Europe
+Rennes,France,TRUE,Rennes,Rennes,48.10986,-1.67451,Contemporary art,"Bernard Etienne, Kopp Céline",France,Biennial,International,2008,2018,Rennes,France,Western Europe
+Borås,Sweden,TRUE,Borås,Borås,57.72351,12.95126,Sculpture,Ekroth Power,Sweden,Biennial,International,2008,2018,Borås,Sweden,Western Europe
+Örebro,Sweden,TRUE,Örebro,Örebro,59.27086,15.20214,Public art,Jonnson Lars,Sweden,Biennial,International,2008,2017,Örebro,Sweden,Western Europe
+Folkestone,UK,TRUE,Folkestone,Folkestone,,,"Contemporary art, Public art",Biggs Lewis,UK,Triennial,International,2008,2017,Folkestone,UK,Western Europe
+Kathmandu,Nepal,TRUE,Kathmandu,Kathmandu,27.70628,85.32663,Contemporary art,Van Cauteren Philippe,Belgium,Triennal,International,2009,2017,Kathmandu,Nepal,Asia
+Port-au-Prince,Haiti,TRUE,Port-au-Prince,Port-au-Prince,18.53137,-72.33612,Contemporary art,"Eugene Andre, Gordonn Leah","Haiti, UK",Biennial,International,2009,2017,Port-au-Prince,Haiti,Caribbean
+Riga,Latvia,TRUE,Riga,Riga,56.95623,24.12363,Contemporary art,n/a,n/a,Annual,International,2009,2018,Riga,Latvia,Eastern Europe
+La Paz,Bolivia,TRUE,La Paz,La Paz,-16.50387,-68.1456,Posters,n/a,n/a,Biennial,International,2009,2017,La Paz,Bolivia,Latin America
+New York,USA,TRUE,New York,New York,40.68908,-73.95861,Contemporary art,"Carrion-Murayari Gary, Gartenfeld Alex","USA, USA",Triennial,International,2009,2018,New York,USA,North America
+Chianciano,Italy,FALSE,Chianciano Terme,Italy,43.0409,11.82425,Contemporary art,n/a,n/a,Biennial,International,2009,2018,Chianciano,Italy,Western Europe
+Moss,Norway,TRUE,Moss,Norway,59.43872,10.67081,Contemporary art,"Flink Ulrika, Laamanen Ilari, Lillemose Jacob, Moe Gunhild, Ransu Jón B.K.","Sweden, Finland, Denmark, Norway, Iceland",Biennial,International,2009,2017,Moss,Norway,Western Europe
+Aichi,Japan,TRUE,Aichi,Japan,34.95098,137.25657,Contemporary art,Tsuda Daisuke,Japan,Triennial,International,2010,2019,Aichi,Japan,Asia
+Seto Inland Sea,Japan,TRUE,Seto Inland Sea,Japan,34.39672,132.48056,Contemporary art,n/a,n/a,Triennial,International,2010,2016,Seto Inland Sea,Japan,Asia
+Sfântu Gheorghe,Romania,TRUE,Sfântu Gheorghe,Romania,44.89776,29.59475,Graphic art,n/a,n/a,Biennial,International,2010,2018,Sfântu Gheorghe,Romania,Eastern Europe
+Yekaterinburg,Russia,TRUE,Yekaterinburg,Russia,56.83713,60.60691,Contemporary art,Ribas João,Portugal,Biennial,International,2010,2017,Yekaterinburg,Russia,Eastern Europe
+Oran,Algeria,TRUE,Oran,Algeria,35.69606,-0.62946,Contemporary art,"Rahim Sadek, Chaouche Tewfik Ali",Algeria,Biennial,International,2010,2017,Oran,Algeria,Middle East
+Mardin,Turkey,TRUE,Mardin,Turkey,37.31532,40.72039,Contemporary art,"Arapoğlu Fırat, Gürlek Nazlı, Yücel Derya","Turkey, Turkey, Turkey",Biennial,International,2010,2018,Mardin,Turkey,Middle East
+Huntington,USA,TRUE,Huntington,USA,40.77208,-98.14495,Contemporary art,n/a,n/a,Biennial,Local,2010,2018,Huntington,USA,North America
+Barcelona,Spain,TRUE,Barcelona,Spain,41.40359,2.15379,Photography,n/a,n/a,Biennial,International,2010,2018,Barcelona,Spain,Western Europe
+Liverpool,UK,TRUE,Liverpool,UK,53.42616,-2.93314,Photography,Kwok Ying,Hong Kong,Biennial,International,2011,2017,Liverpool,UK,Western Europe
+Casablanca,Morocco,TRUE,Casablanca,Morocco,33.58457,-7.62483,Contemporary art,Eyene Christine,UK,Biennial,International,2012,2018,Casablanca,Morocco,Africa
+Kochi-Muziris,India,TRUE,Kochi-Muziris,India,10.03631,76.31439,Contemporary art,Dube Anita,India,Biennial,International,2012,2018,Kochi-Muziris,India,Asia
+Changwon,South Korea,TRUE,Changwon,South Korea,35.22469,128.68324,Sculpture,n/a,n/a,Biennial,International,2012,2018,Changwon,South Korea,Asia
+Ramallah,Palestine,TRUE,Ramallah,Palestine,31.91982,35.16288,Contemporary art,n/a,n/a,Biennial,International,2012,2018,Ramallah,Palestine,Middle East
+Montreal,Canada,TRUE,Montreal,Canada,45.56434,-73.6024,Digital art,Weibel Peter,Austria,Biennial,International,2012,2018,Montreal,Canada,North America
+Cincinnati,USA,TRUE,Cincinnati,USA,39.16832,-84.48805,Photography,n/a,n/a,Biennial,International,2012,2018,Cincinnati,USA,North America
+Garden City,USA,TRUE,Garden City,USA,30.49752,-91.15904,Sculpture,n/a,n/a,Biennial,Local,2012,2018,Garden City,USA,North America
+Los Angeles,USA,TRUE,Los Angeles,USA,34.04014,-118.29757,Contemporary art,"Ellegood Anne, Christovale Erin",USA,Biennial,Local,2012,2018,Los Angeles,USA,North America
+London,UK,TRUE,London,UK,51.51753,-0.11214,Contemporary art,n/a,n/a,Triennial,Local,2012,2018,London,UK,Western Europe
+Pune,India,TRUE,Pune,India,18.51502,73.85104,Contemporary art,"Colah Zasha, Cerizza Luca","India, Italy",Biennial,International,2013,2017,Pune,India,Asia
+Odessa,Ukraine,TRUE,Odessa,Ukraine,46.44158,30.7328,Contemporary art,Rashkovetsky Mikhail,Ukraine,Biennial,International,2013,2017,Odessa,Ukraine,Eastern Europe
+Jerusalem,Israel,TRUE,Jerusalem,Israel,31.79002,35.20262,Contemporary art,n/a,n/a,Biennial,International,2013,2017,Jerusalem,Israel,Middle East
+Orange County,USA,FALSE,Irvine,USA,33.6859,-117.79024,Contemporary art,Coblentz Cassandra,USA,Triennial,International,2013,2017,Orange County,USA,North America
+online,online,TRUE,online,online,,,Digital art,n/a,n/a,Biennial,International,2013,2017,online,online,online
+Innsbruck,Austria,TRUE,Innsbruck,Austria,47.27054,11.39509,Contemporary art,"Heubacher Franziska, Tabor Jürgen, Clarke Chris","Austria, Austria, Ireland",Biennial,International,2013,2018,Innsbruck,Austria,Western Europe
+Muich,Germany,TRUE,Muich,Germany,,,Public art,"Doğtaş Gürsoy, Warsza Joanna","Turkey, Poland",Irregular,International,2013,2018,Muich,Germany,Western Europe
+Stavanger,Norway,TRUE,Stavanger,Norway,58.95594,5.7189,"Public art, Moving image",Toft Ag Tanya,Denmark,Biennial,International,2013,2017,Stavanger,Norway,Western Europe
+Kampala,Uganda,TRUE,Kampala,Uganda,0.324,32.58662,Contemporary art,Njami Simon,Switzerland,Biennial,International,2014,2018,Kampala,Uganda,Africa
+Antarctica,Antarctica,TRUE,Antarctica,Antarctica,39.93305,116.34968,Contemporary art,Ponomarev Alexander,Russia,Biennial,International,2014,2018,Antarctica,Antarctica,Antarctica
+Beijing,China,TRUE,Beijing,China,47.49622,19.04588,Photography,"De Wolf Hans, Meng Cai, Ferreira Ângela, Yining He","Belgium, China, Portugal, China",Biennial,International,2014,2018,Beijing,China,Asia
+Budapest,Hungary,TRUE,Budapest,Hungary,44.64785,26.21688,Contemporary art,n/a,n/a,Biennial,International,2014,2017,Budapest,Hungary,Eastern Europe
+Bucharest,Romania,TRUE,Bucharest,Romania,-23.49214,-47.46873,Contemporary art,Mikaeloff Hervé,France,Annual,Local,2014,2018,Bucharest,Romania,Eastern Europe
+Sorocaba,Brazil,TRUE,Sorocaba,Brazil,51.89432,11.04268,Contemporary art,Labra Daniela,Brazil,Triennial,International,2014,2017,Sorocaba,Brazil,Latin America
+Halberstadt,Germany,TRUE,Halberstadt,Germany,45.75228,21.23633,Contemporary art,Koszerek Pippa,UK,Biennial,International,2014,2018,Halberstadt,Germany,Western Europe
+Timișoara,Romania,TRUE,Timișoara,Romania,-22.89286,-43.39352,Contemporary art,"Barak Ami, Marincu Diana","France, Romania",Biennial,International,2015,2017,Timișoara,Romania,Eastern Europe
+Rio de Janeiro,Brazil,TRUE,Rio de Janeiro,Brazil,34.52675,69.16562,Sculpture,Murucci Alexandre,Brazil,Biennial,International,2015,2018,Rio de Janeiro,Brazil,Latin America
+Kabul,Afghanistan,TRUE,Kabul,Afghanistan,42.53348,1.55266,Photography,n/a,n/a,Biennial,International,2015,2017,Kabul,Afghanistan,Middle East
+Andorra,Andorra,TRUE,Andorra,Andorra,48.19231,16.37136,Land art,Moles Sans Pere,Andorra,Biennial,International,2015,2017,Andorra,Andorra,Western Europe
+Vienna,Austria,TRUE,Vienna,Austria,51.2098,3.225,Contemporary art,"Faucheret Anne, Fitz Angelika, Jain Anab, Klein Amelie, Krasny Elke, Wirth Marlies, IDRV (Institute of Design Research Vienna)","Austria, Austria, India, Austria, Austria, Austria, Austria",Biennial,International,2015,2017,Vienna,Austria,Western Europe
+Bruges,Belgium,TRUE,Bruges,Belgium,48.85756,2.3428,"Contemporary art, Public art, Architecture","Borchert Till-Holger, Dewilde Michel","Germany, Belgium",Triennial,International,2015,2018,Bruges,Belgium,Western Europe
+Paris,France,TRUE,Paris,France,38.46786,106.25794,Photography,n/a,n/a,Biennial,International,2015,2017,Paris,France,Western Europe
+Yinchuan,China,TRUE,Yinchuan,China,56.95623,24.12363,Contemporary art,"Scotini Marco, Brinkmanis Andris, Caffoni Paolo, Colah Zasha, Lu Xinghua","Italia, Latvia, Italia, India, China",Biennial,International,2016,2018,Yinchuan,China,Asia
+Okayama City,Japan,TRUE,Okayama City,Japan,-34.60983,-58.45228,Contemporary art,Gillick Liam,UK,Triennial,International,2016,2016,Okayama City,Japan,Asia
+Riga,Latvia,TRUE,Riga,Latvia,30.06752,31.2804,Photography,n/a,n/a,Biennial,International,2016,2018,Riga,Latvia,Eastern Europe
+Buenos Aires,Argentina,TRUE,Buenos Aires,Argentina,34.93301,33.61866,"Contemporary art, Media art",n/a,n/a,Biennial,International,2016,2016,Buenos Aires,Argentina,Latin America
+Cairo,Egypt,TRUE,Cairo,Egypt,44.27204,2.66188,Contemporary art,Njami Simon,Switzerland,Biennial,International,2016,2018,Cairo,Egypt,Middle East
+Larnaca,Cyprus,TRUE,Larnaca,Cyprus,6.48937,3.37709,Contemporary art,n/a,n/a,Biennial,International,2016,2018,Larnaca,Cyprus,Western Europe
+Aveyron,France,TRUE,Aveyron,France,40.15447,44.50791,Ceramics,n/a,n/a,Biennial,International,2016,2018,Aveyron,France,Western Europe
+Lagos,Nigeria,TRUE,Lagos,Nigeria,13.06841,80.24091,Contemporary art,"Oshun Folakunle, Haizel Kelvin, Ohene-Aye Kwasi","Nigeria, Ghana, Ghana",Biennial,International,2017,2017,Lagos,Nigeria,Africa
+Yerevan,Armenia,TRUE,Yerevan,Armenia,3.14453,101.68948,Graphic art,n/a,n/a,Biennial,International,2017,2017,Yerevan,Armenia,Asia
+Chennai,India,TRUE,Chennai,India,24.86093,67.08691,Photography,n/a,n/a,Biennial,International,2017,2017,Chennai,India,Asia
+Suzu City,Japan,TRUE,Suzu City,Japan,33.50014,126.52278,Contemporary art,Kitagawa Fram,Japan,Triennial,International,2017,2017,Suzu City,Japan,Asia
+Kuala Lumpur,Malaysia,TRUE,Kuala Lumpur,Malaysia,55.75706,37.60976,Contemporary art,Yusof Zulkifli,Malaysia,Biennial,Local,2017,2017,Kuala Lumpur,Malaysia,Asia
+Karachi,Pakistan,TRUE,Karachi,Pakistan,-34.60983,-58.45228,Contemporary art,Gulgee Amin,Pakistan,Biennial,International,2017,2017,Karachi,Pakistan,Asia
+Jeju,South Korea,TRUE,Jeju,South Korea,47.55355,-52.78882,Contemporary art,"Kim Jiyon, Rhee Sangmi",South Korea,Biennial,International,2017,2017,Jeju,South Korea,Asia
+Moscow,Russia,TRUE,Moscow,Russia,33.6674,-116.17776,Contemporary art,Fowle Kate,UK,Triennial,Local,2017,2017,Moscow,Russia,Eastern Europe
+Buenos Aires,Argentina,TRUE,Buenos Aires,Argentina,21.31158,-157.83411,Contemporary art,Wechsler Diana,Argentina,Biennial,International,2017,2017,Buenos Aires,Argentina,Latin America
+Newfoundland,Canada,TRUE,Newfoundland,Canada,-37.81585,144.96313,Contemporary art,n/a,n/a,Biennial,Local,2017,2017,Newfoundland,Canada,North America
+Coachella Valley,USA,TRUE,Coachella Valley,USA,56.16355,10.18813,"Contemporary art, Site-specific art",Wakefield Neville,USA,Biennial,International,2017,2017,Coachella Valley,USA,North America
+Honolulu,USA,TRUE,Honolulu,USA,55.69059,12.54786,Contemporary art,"Nanjo Fumio, Mason Ngahiraka","Japan, New Zealand",Biennial,International,2017,2017,Honolulu,USA,North America
+Melbourne,Australia,TRUE,Melbourne,Australia,30.53196,103.67023,Contemporary art,n/a,n/a,Triennial,International,2017,2017,Melbourne,Australia,Oceania
+Aarhus,Denmark,TRUE,Aarhus,Denmark,22.55345,114.08583,"Modern art, Early modern art, Contemporary art",Høyersten Erlend,Norway,Triennial,International,2017,2017,Aarhus,Denmark,Western Europe
+Copenhagen,Denmark,TRUE,Copenhagen,Denmark,14.57422,121.00404,Contemporary art,"Mišković Tijana, Geoffroy Thierry","Denmark, Denmark",Biennial,International,2017,2017,Copenhagen,Denmark,Western Europe
+Anren,China,TRUE,Anren,China,13.74127,100.4969,Contemporary art,Peng Lu,China,Biennial,International,2018,2017,Anren,China,Asia
+Shenzhen,China,TRUE,Shenzhen,China,8.07367,98.90067,Contemporary art,"Tang Zehui, Fang Miner, Fong Janet","China, China, Hong Kong",Biennial,International,2018,2018,Shenzhen,China,Asia
+Manila,Philippines,TRUE,Manila,Philippines,56.95623,24.12363,Contemporary art,Bunoan Ringo S.,Philippines,Biennial,International,2018,2018,Manila,Philippines,Asia
+Bangkok,Thailand,TRUE,Bangkok,Thailand,-22.89286,-43.39352,Contemporary art,Poshyananda Apinan,Thailand,Biennial,International,2018,2018,Bangkok,Thailand,Asia
+Krabi,Thailand,TRUE,Krabi,Thailand,31.53475,74.34175,Contemporary art,Jiehong Jiang,UK,Biennial,International,2018,2018,Krabi,Thailand,Asia
+Riga,Latvia,TRUE,Riga,Latvia,40.4437,-95.06044,Contemporary art,Gregos Katerina,Greece,Biennial,International,2018,2018,Riga,Latvia,Eastern Europe
+Rio de Janeiro,Brazil,TRUE,Rio de Janeiro,Brazil,48.85756,2.3428,Digital art,n/a,n/a,Biennial,International,2018,2018,Rio de Janeiro,Brazil,Latin America
+Lahore,Pakistan,TRUE,Lahore,Pakistan,48.57711,7.75228,Contemporary art,Rahim Qudsia,Pakistan,Biennial,Local,2018,2018,Lahore,Pakistan,Middle East
+Cleveland,USA,TRUE,Cleveland,USA,40.4437,-95.06044,Contemporary art,Grabner Michelle,USA,Triennial,International,2018,2018,Cleveland,USA,North America
+Paris,France,TRUE,Paris,France,48.85756,2.3428,Photography,n/a,n/a,Biennial,International,2018,2018,Paris,France,Western Europe
+Strasbourg,France,TRUE,Strasbourg,France,48.57711,7.75228,Contemporary art,Khouaidjia Yasmina,France,Biennial,International,2018,2018,Strasbourg,France,Western Europe
